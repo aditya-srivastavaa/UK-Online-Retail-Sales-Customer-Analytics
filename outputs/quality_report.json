@@ -1,0 +1,17 @@
+{
+  "source_rows": 1067371,
+  "exact_duplicate_rows_removed": 34335,
+  "sales_candidate_rows": 1013932,
+  "eligible_sales_rows": 1007913,
+  "cancellation_rows": 19104,
+  "nonpositive_quantity_rows_excluded": 3393,
+  "nonpositive_price_rows_excluded": 6019,
+  "invalid_date_or_numeric_rows_excluded": 0,
+  "eligible_recorded_sales_gbp": 20476260.45,
+  "eligible_orders": 40077,
+  "identified_customers": 5878,
+  "sales_rows_missing_customer_id": 228488,
+  "first_eligible_transaction": "2009-12-01T07:45:00",
+  "last_eligible_transaction": "2011-12-09T12:50:00",
+  "rfm_reference_date": "2011-12-10"
+}
